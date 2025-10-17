@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q2 Practice 1</title>
+    <style>
+        div{
+            background-color: rgb(128, 0, 128);
+        }
+
+        h1{
+            font-family: sans-serif;
+        }
+        p{
+            
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>First Github Page</h1>
+        <br>
+        <p>I see ICT as math as it is as smooth as butter but get one thing wrong or go behind once and it is over. 
+        </p>
+    <div>
+</body>
+</html>
